@@ -193,5 +193,11 @@ ORDER BY Overall DESC;
 
 SELECT *
 FROM `recent njpubschool(public school grade levels)`;
+
 -- For The Visualization visit https://public.tableau.com/app/profile/olubunmi.ojo/viz/JerseyStemProjectTableauVisualization/Dashboard1
 
+-- Observations
+
+-- From the Tableau Visualization, Bergen County had the highest number of students from 5th to 8th grade.
+-- Newark Public School District had the highest number of students from grade 5 to 8
+-- This Visualization gives a clear insight into the counties and districts that need more development probably in terms of quality of education, resources such as educational facilities, security in those areas or maybe just a better marketing strategy to bring in more students and offer them quality education.
